@@ -1,3 +1,24 @@
+<!-- Paste in <head> -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$','$'],['\\(','\\)']],
+      displayMath: [['$$','$$'],['\\[','\\]']],
+      processEscapes: true
+    },
+    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- Usage inline: $E = mc^2$ -->
+<!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
+
+---
+
+
 The [Forbes data](https://en.wikipedia.org/wiki/The_World%27s_Billionaires) actually gives you a remarkably clean empirical trace of the [funnel model](https://ukubona-llc.github.io/trial/) you built with the other AI — the "richest person" title has moved down through exactly the layers in your stack, roughly on schedule.
 
 ---
