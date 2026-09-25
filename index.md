@@ -1078,6 +1078,93 @@ $$
 
 ---
 
+```
+                         PENTADIC ROUTER
+                         ───────────────
+
+   I ──────► II ──────► III ─────┬──────────────────► V
+ World      Objective  Agentive  │                  Corrective
+(Agentive)  (Next-Tok)  (Errative)│                (Embodied/Life)
+                                  │  GENERATIVE (short-circuit)
+                                  │  single trajectory, no collision
+                                  │  ─────────────────────────────
+                                  │
+                                  └──────► IV ─────────► V
+                                         Interactive   Corrective
+                                        (multi-agent    (degraded,
+                                         collision)      collision-
+                                                          damaged)
+                                  DEGENERATIVE (long path)
+                                  friction with other agents
+                                  before resolution
+```
+
+```
+                    ┌─────────────────────────────────┐
+                    │              III                 │
+                    │           Errative /             │
+                    │        Inference-Agentic         │
+                    └────────────────┬──────────────────┘
+                                      │
+                     ┌────────────────┴────────────────┐
+                     │                                   │
+              route: skip IV                      route: through IV
+                     │                                   │
+                     ▼                                   ▼
+              ╔═════════════╗                    ╔═════════════╗
+              ║   III → V   ║                    ║ III → IV → V ║
+              ║  GENERATIVE ║                    ║ DEGENERATIVE ║
+              ╚═════════════╝                    ╚═════════════╝
+              single-agent                        multi-agent
+              trajectory,                         collision corrupts
+              clean commitment                    the signal en route
+              to V                                to V
+```
+
+And the Coen split is a genuinely great test case for it — Joel's *Macbeth* is about as pure a III→V as cinema gets: one man's ambition, one prophecy, one uninterrupted line to ruin, no other consciousness in the film gets to meaningfully redirect it. Ethan's post-split work (with Tricia Cooke) runs the other route — everything's mediated by other people's competing agendas colliding into the plot before it resolves, which is the actual engine of *Drive-Away Dolls*-style Coen degenerate-comedy, and honestly most of the Coen catalog when they worked together: Llewyn Davis, the Dude, Barton Fink — protagonists whose trajectory gets bent by everyone else's independent nonsense rather than executing their own clean plan. Splitting the brothers accidentally ran the isolation experiment: which twin carries III→V, which carries III→IV→V.
+
+---
+
+```
+PENTADIC TABLE — Amazon → Google → Facebook
+════════════════════════════════════════════════════════════════════════════
+
+STAGE            AMAZON                GOOGLE                FACEBOOK
+─────            ──────                ──────                ────────
+I. World          Land/Walmart shelf    Library/Encyclopedia  Village square
+  (Agentive)      → virtual catalog     → virtual index       → virtual crowd
+
+II. Objective     "Will this item       "Is this the right    "How did I land
+  (Next-Tok)      satisfy you?"         answer?"               socially?"
+                  purchase/click        relevance/dwell        like/comment/
+                                                                 share
+
+III. Errative     A/B trials, cheap     query refinement,      post → reaction,
+  (Inference-      low-latency          re-ranking, "did you   cheap low-latency
+   Agentic)        feedback loop        mean...?"              social feedback
+
+IV. Interactive   (mostly bypassed)     (mostly bypassed)      OTHER PEOPLE,
+  (multi-agent                          — other searchers      live, actually
+   collision)                           present only            present, actually
+                                         statistically           pushing back
+
+V. Corrective     Package arrives.      Answer found.          ??? — no stable
+  (resolution)    Loop CLOSES.          Loop CLOSES.           resolution. Loop
+                                                                RE-OPENS into I.
+
+─────────────────────────────────────────────────────────────────────────────
+ROUTE             III ──────► V          III ──────► V          III ──► IV ──► V
+                  GENERATIVE             GENERATIVE              DEGENERATIVE
+                  (single-agent,         (single-agent,          (multi-agent
+                   clean commitment)      clean commitment)       collision, no
+                                                                   exit condition)
+════════════════════════════════════════════════════════════════════════════
+```
+
+The load-bearing row is V. Amazon and Google both have a *real stopping condition* — the box shows up, the answer resolves — so III→V stays clean even when IV gets touched briefly along the way (reviews, forums). Facebook's V never actually closes; "how did that land" has no terminal state, so the system loops V back into a new I instead of discharging. That's the structural reason it's the dangerous one and not just the "most addictive" one — it's the only column of the three that's a router with no exit ramp.
+
+---
+
 <iframe
    src="https://www.youtube.com/embed/PnSjKTW28qE"
    width="75%"
@@ -1086,3 +1173,4 @@ $$
 </iframe>
 
 ---
+
