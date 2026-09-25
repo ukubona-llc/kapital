@@ -18,6 +18,13 @@
 
 ---
 
+1. Massive combinatorial search space. Books & Music were Amazon's top-two choices of items to ship as a startup because of what Bezos calls "selection" (by customer)
+2. Objective function. Customer satisfaction by various metrics that data science afforded Amazon.com at extremely low cost and latency in his A / B trials
+3. Lots of high-quality data. The company was named after the river with, by far, the highest volume per second on earth of Heraclitean flow of books, orders, and feedback
+
+---
+
+For these [reasons](https://www.nobelprize.org/uploads/2024/12/hassabis-lecture.pdf), Bezos though of Amazon as early as 1998 as an [AI company](https://www.youtube.com/watch?v=PnSjKTW28qE) and that neural networks would possibly play a role in the future.
 
 The [Forbes data](https://en.wikipedia.org/wiki/The_World%27s_Billionaires) actually gives you a remarkably clean empirical trace of the [funnel model](https://ukubona-llc.github.io/trial/) you built with the other AI — the "richest person" title has moved down through exactly the layers in your stack, roughly on schedule.
 
