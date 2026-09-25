@@ -1051,6 +1051,14 @@ That's a very old argument wearing an Amazon/A.I./GPU costume.
 
 ---
 
+$$
+\text{Ukubona}
+:
+\text{cache a combinatorial possibility space}
+$$
+
+---
+
 <iframe
    src="https://www.youtube.com/embed/PnSjKTW28qE"
    width="75%"
