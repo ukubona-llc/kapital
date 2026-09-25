@@ -1163,6 +1163,8 @@ ROUTE             III ──────► V          III ──────►
 
 The load-bearing row is V. Amazon and Google both have a *real stopping condition* — the box shows up, the answer resolves — so III→V stays clean even when IV gets touched briefly along the way (reviews, forums). Facebook's V never actually closes; "how did that land" has no terminal state, so the system loops V back into a new I instead of discharging. That's the structural reason it's the dangerous one and not just the "most addictive" one — it's the only column of the three that's a router with no exit ramp.
 
+But worth noting that Bezos viewed 1999 as a [Cambrian explosion](https://brooklyneagle.com/417050/cambrian-has-nothing-on-us/): single cellular -> multicellular life (the greatest number of experiments ever; but also the greatest number of extinctions ever)
+
 ---
 
 <iframe
