@@ -1076,6 +1076,12 @@ $$
 \text{cache a combinatorial possibility space}
 $$
 
+Ukubona will have to build a cache seperate from the individualized apps
+
+Its the customer experience that is [individualized](https://www.youtube.com/watch?v=zhRt-IisSaM)
+
+But the architecture is centralized-distributed
+
 ---
 
 ```
