@@ -1028,3 +1028,13 @@ And the economic system keeps creating abstractions that increase the **space of
 
 That's a very old argument wearing an Amazon/A.I./GPU costume.
 
+---
+
+<iframe
+   src="https://www.youtube.com/embed/PnSjKTW28qE"
+   width="75%"
+   height="500"
+>
+</iframe>
+
+---
