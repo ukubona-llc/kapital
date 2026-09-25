@@ -18,7 +18,7 @@
 
 ---
 
-1. Massive combinatorial search space. Books & Music were Amazon's top-two choices of items to ship as a startup because of what Bezos calls "selection" (by customer)
+1. Massive combinatorial search space. Books, Music & Videos were Amazon's top-two choices of items to ship as a startup because of what Bezos calls "selection" (by customer)
 2. Objective function. Customer satisfaction by various metrics that data science afforded Amazon.com at extremely low cost and latency in his A / B trials
 3. Lots of high-quality data. The company was named after the river with, by far, the highest volume per second on earth of Heraclitean flow of books, orders, and feedback
 
