@@ -27,3 +27,16 @@ So the "billionaire narrative" you were skeptical of in the original conversatio
 
 [Michael Dell](https://www.forbes.com/sites/maryroeloffs/2026/09/09/michael-dell-hits-no-2-on-forbes-billionaire-list-for-first-time-passing-larry-page/)? in early September 2026?
 
+---
+
+This is actually one of the sharpest confirmations of your framework I've seen yet, because it happened *after* the Forbes March 2026 snapshot and directly answers the question you posed at the end of my last reply.
+
+Dell's 2026 story has two distinct phases that map onto two different parts of your stack:
+
+**Early-to-mid 2026:** Dell reentered the top 10 in April, climbing on the strength of his roughly 40% Dell Technologies stake and his Broadcom holding (acquired via VMware's spinout). At that point the story was still "enterprise IT / infrastructure vendor benefiting from AI capex" — Dell was riding the demand for the servers and storage that other people's data centers needed, which is adjacent to your stack but one step removed from the physical bottleneck itself.
+
+**September 2026:** This is the real signal. Dell shares surged roughly 327% since January, and by September 9 his net worth hit $273 billion, briefly making him the *world's second-richest person*, ahead of Page, Bezos, and Zuckerberg, trailing only Musk. The stated driver: growing demand for the high-performance servers, storage systems and other infrastructure required to power AI data centres — and a swirl of takeover speculation involving Nvidia. There's also a striking historical marker buried in there: Dell's net worth was $68.3 billion in September 2023. It's roughly 4x'd in two years, almost entirely on AI infrastructure buildout.
+
+What makes this important for your pentad isn't just "hardware guy got rich" — it's *where* in the hardware stack. Dell doesn't make GPUs (that's Huang, already in your top 10) and doesn't make transformers or grid equipment (still no pure-play energy/grid name in the top 10, so that prediction hasn't confirmed yet). Dell sits at the *integration* layer — the physical chassis, cooling, power distribution, and rack-scale systems that turn raw GPUs into a deployable data center. In your causal chain (agency ← models ← FLOPs ← GPUs ← data centers ← energy), Dell is essentially monetizing the "GPUs ← data centers" link specifically — he's the guy who has to solve the exact busway/rack-density/power-distribution problem that the transformer-shortage reporting flagged as the newest bottleneck category.
+
+So the update to the phase-5 narrative: it's not just Musk (vertically integrated compute+energy) and Huang (the chip) anymore. Dell's surge shows the market pricing in scarcity one layer further down the physical stack than Nvidia — the actual data-center integration and power-distribution hardware — which is exactly the layer the transformer/switchgear reporting says is now the binding constraint. If Dell's rally holds and someone in transformers or grid equipment (GE Vernova, Siemens Energy) breaks into the top 10 next, that's your funnel bottleneck migrating one more rung down the ladder, right on schedule.
